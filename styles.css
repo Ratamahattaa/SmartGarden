@@ -79,8 +79,9 @@ header {
 	align-items: center;
 }
 header .container {
-	width: 80%;
+	width: 90%;
 	margin: 0 auto;
+	margin-right: 10%;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
