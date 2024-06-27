@@ -19,3 +19,5 @@ Smart Garden is a web application designed to assist busy professionals in takin
 2. **CSS3**: Styling with modern CSS features, including flexbox and animations.
 3. **JavaScript**: Adding interactivity and dynamic content.
 4. **Git**: Version control and collaboration.
+
+The backend of the project, developed by my colleague, can be found [here](https://github.com/Daniel-kormoran/LoRa_Smart_Greenhouse)
